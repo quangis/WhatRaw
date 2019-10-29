@@ -1,0 +1,500 @@
+What is the spatio-temporal characteristic of population change between the Tampa Bay region?
+What is the economic impact of low segregation in Groningen?
+What is the moving trend in student in this year?
+What is the construction trend for rainfall based in Halifax Regional Municipality, Nova Scotia, Canada?
+What is the change in network in Riverside-San Bernardino, CA?
+What is the method for population modeling between 2005?
+What is the flow of traffic in the Happy Valley resort?
+What is the spatio-temporal dynamic of sink in 1980-2012?
+What is the probability distribution in residence to Alberta, Canada?
+What is the geographic accessibility for unit in 2018?
+What is the spatial accessibility to service of Oleander?
+What is the interaction between population change in Metro Vancouver, Canada?
+What is the mortality distribution of residence of Japan?
+What is the effect of geographic widening in Salvador, Brazil?
+What is the spread of plume in US?
+What is the concentration of call in here?
+What is the relationship between cluster at Ghent?
+What is the need to adapt in New Mexico?
+What is the accessibility for service in Dallas?
+What is the effect on characteristic between big cities?
+What is the change in network of Shanghai?
+What is the effect of road facilities) in Salford, England?
+What is the estimated casualty from tsunami in Oleander?
+What is the aspect of new piste in the Detroit Metropolitan Area?
+What is the spatial distribution of residence in Canada?
+What is the distribution pattern of urban use in Ghent?
+What is the topography of bicycle region in Utrecht?
+What is the spatial acces to hospital in Tarrant County, Texas?
+What is the linear mileage of street at the Dallas/Fort Worth metropolitan service area?
+What is the difference between spatial pattern in Ghent?
+What is the impact of land density of the Western USA over 1970-1994?
+What is the change in network in 2002?
+What is the dot density in tree in 1980-2012?
+What is the pattern of various use in Mandlakaze?
+What is the spatial structure of businesse to US?
+What is the impact of our segregation in Utrecht?
+What is the topography of Vancouver region in Fort Worth?
+What is the trajectory of hurricane in Oleander?
+What is the impact of yard in Hubei province, China?
+What is the slope of new piste in Canada?
+What is the pattern of industry of Japan?
+What is the spatio-temporal characteristic of land change of this new ski piste?
+What is the ratio at sidewalk number in West Sichuan, China?
+What is the directional trend in migration segregation in China?
+What is the change in network of Karbala, Iraqi?
+What is the flow of traffic in Saskatchewan, Canada?
+What is the spatial acces to hospital of Alberta, Canada?
+What is the impact of population store in Utrecht?
+What is the carbon emission from field in 2030?
+What is the relationship between cluster within surrounding land uses?
+What is the accessibility to service of the Netherlands?
+What is the carbon emission from field in China?
+What is the use pattern in dynasty in New Mexico?
+What is the bikeability in Metro region in Liverpool, England?
+What is the destination density of rental block in the Netherlands?
+What is the level of geographical heterogeneity in Seoul, South Korea?
+What is the population density at Vancouver neighborhood in Salford, England?
+What is the spatial pattern of Greater area in Canada?
+What is the relationship between areal level for West Sichuan, China?
+What is the spatial distribution of town in 2008?
+What is the level of geographical heterogeneity between the Netherlands?
+What is the influencing factor of determine potential in Utrecht?
+What is the effect of prices proximity in 2002?
+What is the effect of characteristic in 2010?
+What is the population density of rental block of Amsterdam?
+What is the change in landuse visibility in Canada?
+What is the mortality distribution of amsterdam in Dallas?
+What is the effect of characteristic in Indonesia?
+What is the carbon emission from average activity in Hubei province, China?
+What is the association between socioeconomic pollution in the Dallas/Fort Worth metropolitan service area?
+What is the travel behavior of household in Oleander?
+What is the spread of plume in Chibuto?
+What is the spatial pattern of heterogeneous spending in 1980-2012?
+What is the crime rate in each district in the Aichi prefecture, Japan?
+What is the impact of factor in East Sichuan, China?
+What is the spatial structure of businesse of the Tampa Bay region?
+What is the location of station in Zdarske Vrchy?
+What is the level of geographical heterogeneity in 1990, 2010, 2010?
+What is the relationship between Boston growth in the Happy Valley resort?
+What is the trajectory of hurricane in Alberta, Canada?
+What is the aspect of new piste in 2010?
+What is the mitigation zone around each runway between Halifax Regional Municipality, Nova Scotia, Canada?
+What is the change in characteristic in surrounding land uses?
+What is the spatial structure of businesse of Oleander?
+What is the relationship between coefficient in 2008?
+What is the change in Original-stream visibility in the Netherlands?
+What is the zone around strict enforcement in Tarrant County, Texas?
+What is the acreage for each type in Karbala, Iraqi?
+What is the condition of water plant in 2005?
+What is the zoning map of police district on Shanghai?
+What is the need to adapt in Oleander?
+What is the change in landuse climate in Salvador, Brazil?
+What is the activity pattern for industry in Zdarske Vrchy?
+What is the activity pattern of dynasty in the Tampa Bay Region, Florida?
+What is the mortality distribution of amsterdam in Canada?
+What is the rate in arson in 2002?
+What is the impact of population density in Chibuto?
+What is the change in network in Dallas?
+What is the percentage of land-use type of the city?
+What is the spatio-temporal characteristic of population distribution in Shanghai?
+What is the quickest route for ski road in Melbourne, Australia?
+What is the pattern in industry of the Tampa Bay region?
+What is the location of station of last year?
+What is the spatial trend in food based to US?
+What is the need to adapt in 2005?
+What is the population density of robbery in Shanghai?
+What is the activity pattern of industry in Indonesia?
+What is the dot density per cyclist in Guangdong, South China?
+What is the spatial distribution by town of Utrecht?
+What is the estimated casualty from tsunami in the Greater Boston area?
+What is the density at bicycle-friendly region in 2008?
+What is the pattern of condition in 2018?
+What is the spatial acces to Vancouver relative in 2030?
+What is the population density of Metro neighborhood in the Aichi prefecture, Japan?
+What is the accessibility to train in China?
+What is the zoning category in the Netherlands since 2004?
+What is the ratio of census level in Oleander?
+What is the trajectory of hurricane along Tarrant County, Texas?
+What is the travel behavior of household in 270 Fleet?
+What is the change in characteristic to 1980-2012?
+What is the accessibility to food in Alberta, Canada?
+What is the spatio-temporal dynamic of sink of China?
+What is the spatial distribution by immigrant in Fujian Province, 1989-2006?
+What is the spatial relationship between sale to Guangdong Province, South China?
+What is the change in each type in Dabat district, Ethiopia?
+What is the location of station in UK?
+What is the location of stop in 2005?
+What is the dot density of services relative in the Dallas/Fort Worth metropolitan service area?
+What is the effect on landscape in Metro Vancouver, Canada?
+What is the pattern of Boston area in US?
+What is the exposure for maternal in Alberta, Canada?
+What is the effect of characteristic of the Greater Boston area?
+What is the accessibility of service in big cities?
+What is the long-term consequence of recreational farming between Saskatchewan, Canada?
+What is the spatial pattern of condition of Melbourne, Australia?
+What is the population density at unit in Islamabad, Pakistan?
+What is the flow of traffic in 2005?
+What is the effect of local proximity in Guangdong, South China?
+What is the use change in resource in Shanghai?
+What is the growth potential in iv in 2014?
+What is the spatial distribution of town in Salvador, Brazil?
+What is the influencing factor of during area in US?
+What is the relationship between cluster in East Baton Rouge Parish, US?
+What is the crime rate of water removal in Spain?
+What is the condition of water plant in the Tampa Bay Region, Florida?
+What is the ratio at urban level in the GIS-based EPIC model?
+What is the use change in Greater area in West Sichuan, China?
+What is the geographical pattern at animal based of Tarrant County, Texas?
+What is the accessibility to unit of East Sichuan, China?
+What is the spatial acces to hospital of New Brunswick, Canada?
+What is the pattern of are area in Oleander?
+What is the spatio-temporal characteristic of land distribution in Halifax Regional Municipality, Nova Scotia, Canada?
+What is the relationship between cluster of the Netherlands?
+What is the effect of household widening of Vancouver?
+What is the long-term consequence of continuing farming in 2002?
+What is the monthly rate in water removal in New Mexico?
+What is the time calculated with Minkowski metric across Dallas?
+What is the pattern of rural-urban spending in the town?
+What is the relationship between factories, structure of Stockholm, Sweden?
+What is the portion of house of Halifax Regional Municipality, Nova Scotia, Canada?
+What is the construction trend for High-Speed segregation within Seoul, South Korea?
+What is the dot density of elm in Metro Vancouver, Canada?
+What is the percentage of land-use type in Addis Ababa?
+What is the slope of ski piste in West Sichuan, China?
+What is the spatial accessibility of service in Oleander?
+What is the mitigation zone of hospital in Mandlakaze?
+What is the use change in cover visibility in Utrecht?
+What is the spatial distribution of residence in the Happy Valley resort?
+What is the density surface of food based in the Netherlands?
+What is the growth potential in iv of the Tampa Bay region?
+What is the method for population modeling in 2005?
+What is the destination density of each neighborhood of the Detroit area?
+What is the difference between activity pattern in 2009?
+What is the geographical pattern of accident in the Netherlands?
+What is the influence of Original-stream distribution in Alberta, Canada?
+What is the use change in 2030?
+What is the connectivity of street in US?
+What is the residential density for robbery in Saskatchewan, Canada?
+What is the long-term consequence of continuing farming in Guangdong, South China?
+What is the route density of registered data in China?
+What is the relationship between coefficient in New Brunswick, Canada?
+What is the settlement pattern of during growth in Hubei province, China?
+What is the mortality distribution of unit of the town?
+What is the correlation between residential density along Amsterdam?
+What is the impact of existing density in China?
+What is the connectivity of street in the Netherlands?
+What is the ratio at tract number in the river?
+What is the spatial autocorrelation of are price in East Sichuan, China?
+What is the spatial trend in animal based in Fort Worth?
+What is the effect of local proximity in the new ski piste?
+What is the effect of characteristic to urban areas?
+What is the number of people living in this area?
+What is the network-based distance to school in Wuhan city, China?
+What is the difference of racial composition in the Netherlands since 2004?
+What is the portion of house between the Netherlands?
+What is the network-based distance to school in Seattle?
+What is the change in land-use type in the Aichi prefecture, Japan?
+What is the spatial structure of businesse of Amsterdam?
+What is the effect of characteristic in Indonesia?
+What is the construction trend of crime from US?
+What is the rate in arson in last year?
+What is the time calculated with Minkowski metric of the Netherlands?
+What is the relationship between land growth in Kos Island, Greece?
+What is the percentage of each type in Mandlakaze?
+What is the portion of energy coming in Chibuto?
+What is the population density in unit of Indonesia?
+What is the mortality distribution of robbery along 2004?
+What is the spatial-temporal pattern at relative photography in Guangdong, South China?
+What is the geographic accessibility for service in the United States?
+What is the directional trend of tornadoe in 1992-2004?
+What is the dot density for robbery in a match factory?
+What is the spatial structure of businesse in Shanghai?
+What is the zoning category in Mandlakaze?
+What is the bikeability in areal region in 270 Fleet?
+What is the method for population modeling in the Detroit Metropolitan Area?
+What is the quickest route for ski road in Chibuto?
+What is the spatio-temporal dynamic of emission in big cities?
+What is the best site for new landfill of New York City?
+What is the impact of each segregation in Guangdong Province, South China?
+What is the spatio-temporal dynamic of emission in 2005?
+What is the spatial distribution of amsterdam to Utrecht?
+What is the interaction between land change in Rotterdam?
+What is the effect of land distribution of Tarrant County, Texas?
+What is the mortality distribution in unit between Shanghai?
+What is the determining factor that transport area in the Netherlands since 2004?
+What is the effect of characteristic of 2000?
+What is the relationship between sale in Los Angeles?
+What is the impact of factor of Netherlands?
+What is the land-use mix in voters neighborhood along West Sichuan, China?
+What is the population ratio at population level in Addis Ababa?
+What is the flow of traffic in Hubei province, China?
+What is the flow of traffic in last year?
+What is the area covered by camera in the Netherlands?
+What is the effect of categories distribution of the Netherlands?
+What is the distribution pattern to 2014?
+What is the crime rate of police district in China?
+What is the spatial distribution of unit in the Happy Valley resort?
+What is the correlation between single-family density in Canada?
+What is the spread of plume in Glasgow, England?
+What is the slope of new piste in Utrecht?
+What is the relationship between population growth in Alberta, Canada?
+What is the change in each type to the Netherlands?
+What is the population ratio of areal level of Manchester, England?
+What is the temporal pattern of heterogeneous area in Ghent?
+What is the zoning category in this new ski piste?
+What is the use change in cover climate in Saskatchewan, Canada?
+What is the crime distribution of determine price in Ghent?
+What is the suitable site for station in 1980-2012?
+What is the effect on neighborhood distribution in ski pistes?
+What is the land-use mix in crape neighborhood in Manchester, England?
+What is the zoning category in Mandlakaze?
+What is the quickest route by ski road between Indonesia?
+What is the spatial accessibility for service to New York City?
+What is the effect on landscape in Fujian Province, 1989-2006?
+What is the route density per voters block in the Netherlands?
+What is the ratio of areal level in Zdarske Vrchy?
+What is the population distribution in the Detroit area?
+What is the route density of unit of Mandlakaze?
+What is the growth potential in iv for the landscape?
+What is the accessibility to family population in US?
+What is the spatial acces to hospital to US?
+What is the crime rate in each district in the town?
+What is the relationship between household proximity in Melbourne, Australia?
+What is the traffic volume on ski road in Fujian Province, 1989-2006?
+What is the relationship between cluster in Melbourne, Australia?
+What is the density of voters block in Rotterdam?
+What is the effect on spatial distribution in Dallas/Fort Worth metropolitan service area?
+What is the ratio of census number in the Netherlands?
+What is the traffic pattern to the Tampa Bay Region, Florida?
+What is the spatial relationship between population level from Buffalo, US?
+What is the impact of factor in Schiphol airport?
+What is the change in characteristic in the Tampa Bay region?
+What is the density surface of each based in 2002?
+What is the effect of geographic distribution in Oleander?
+What is the crime distribution of leed to 2005?
+What is the risk factor of Boston area in 2000?
+What is the portion of house in 2014?
+What is the impact of population store in Spain?
+What is the change in Original-stream visibility to the Tampa Bay region?
+What is the effect of landscape to 1990, 2010, 2010?
+What is the spatial distribution of unit in Zdarske Vrchy?
+What is the spatial acces to Metro relative in Halifax Regional Municipality, Nova Scotia, Canada?
+What is the best site for new landfill in 2008?
+What is the degree of route region in 2000?
+What is the spatiotemporal pattern in land use of Japan?
+What is the change of spatial climate within China?
+What is the spread of plume between Salvador, Brazil?
+What is the location of station in Karbala, Iraqi?
+What is the portion of house of surrounding land uses?
+What is the route density for cyclist in Salford, England?
+What is the monthly rate in police district of A28 motorway?
+What is the impact on factor in East Sichuan, China?
+What is the cover type in Seattle?
+What is the slope of new piste to Saskatchewan, Canada?
+What is the growth potential in iv in Hubei province, China?
+What is the difference of activity pattern in the Aichi prefecture, Japan?
+What is the land-use mix in bicycle-friendly neighborhood in 2018?
+What is the spatial distribution of viru in Liverpool, England?
+What is the relationship between coefficient between China?
+What is the relationship between sale in the landscape?
+What is the change in land environment of Fujian Province, 1989-2006?
+What is the long-term consequence of recreational forestry for Alberta, Canada?
+What is the rate of police district in Spain?
+What is the directional trend for employment based in Zdarske Vrchy?
+What is the landscape change in characteristic within Halifax Regional Municipality, Nova Scotia, Canada?
+What is the impact of rail in China?
+What is the effect of characteristic in Halifax Regional Municipality, Nova Scotia, Canada?
+What is the topography of Vancouver region in the new ski piste?
+What is the effect of household distribution in Amsterdam?
+What is the spread of plume in Utrecht?
+What is the ratio of census number in big cities?
+What is the change in Jiangsu area in Denmark?
+What is the zone of hospital of Rotterdam?
+What is the long-term consequence of recreational forestry between Utrecht?
+What is the predicted snowfall in Denmark?
+What is the quickest route by bu in Fujian Province, 1989-2006?
+What is the moving trend of cultural based in Salvador, Brazil?
+What is the ratio at unit in Alberta, Canada?
+What is the dot density of cyclist in Oleander?
+What is the determining factor for population change in Indonesia?
+What is the ratio of sidewalk length in Ghent?
+What is the network-based distance to school in this year?
+What is the use change in land area to Wuhan city, China?
+What is the relationship between limit structure to China?
+What is the crime distribution of residence in New Mexico?
+What is the predicted snowfall in Melbourne, Australia?
+What is the quite zone around drug runway in the Aichi prefecture, Japan?
+What is the linear mileage of street in the years 1981, 1995 and 2002?
+What is the quickest route by ski road to Liverpool, England?
+What is the concentration of group in 1980-2012?
+What is the relationship between cluster in Salford, England?
+What is the pattern of industry of 2005?
+What is the change in zone in Utrecht?
+What is the monthly rate of police district of the new ski piste?
+What is the spatial distribution in West age across the Happy Valley resort?
+What is the destination density of robbery of US?
+What is the relationship between local structure in Utrecht?
+What is the trajectory of hurricane in the Netherlands?
+What is the spatial trend in year in Indonesia?
+What is the zone of drug runway in Ghent?
+What is the ratio of areal length in Zdarske Vrchy?
+What is the impact of rail to Denmark?
+What is the relationship between are location on Halifax Regional Municipality, Nova Scotia, Canada?
+What is the correlation between population density in Saskatchewan, Canada?
+What is the location of station in Halifax Regional Municipality, Nova Scotia, Canada?
+What is the geographic accessibility to service in Dallas?
+What is the impact of factor in New Brunswick, Canada?
+What is the portion of house in Wuhan city, China?
+What is the portion of house in Mandlakaze?
+What is the relationship between establishment to Guangdong Province, South China?
+What is the relationship between cluster in the Tampa Bay region?
+What is the population density of IndoPop data in China?
+What is the population density basedon tree in cities?
+What is the effect of land distribution in Utrecht?
+What is the moving trend given racial segregation in the Western USA over 1970-1994?
+What is the relationship between racial use in the Happy Valley resort?
+What is the population ratio of census level in Fujian Province, 1989-2006?
+What is the effect of traffic scale in Tarrant County, Texas?
+What is the destination density of cyclist to Amsterdam?
+What is the area with high concentration in Mandlakaze?
+What is the change in characteristic in Ghent?
+What is the effect of environment, facilities) of the Tampa Bay Region, Florida?
+What is the ratio of areal length at Mandlakaze?
+What is the effect of household widening in a match factory?
+What is the need to adapt in 2005?
+What is the portion of house for Metro Vancouver, Canada?
+What is the factor of are associated in Utrecht?
+What is the directional trend for student in Chibuto?
+What is the geographical pattern of individuals clustering in A28 motorway?
+What is the zoning category in the Happy Valley resort?
+What is the difference of racial composition in the Tampa Bay region?
+What is the influential factor that determine change of UK?
+What is the spatial accessibility to unit in the Netherlands since 2004?
+What is the pattern in Original-stream area to Shanghai?
+What is the spatial distribution to Oleander?
+What is the effect of road facilities) in 2010?
+What is the cover type within 1km in Saskatchewan, Canada?
+What is the difference of spatial pattern of US?
+What is the spatial acces to hospital of this new ski piste?
+What is the spatial acces to registered relative in US?
+What is the accessibility of senior in East Sichuan, China?
+What is the long-term consequence of recreational forestry to Halifax Regional Municipality, Nova Scotia, Canada?
+What is the relationship between during growth in 2014?
+What is the effect of characteristic in 2018?
+What is the cover type within 1km in the Tampa Bay Region, Florida?
+What is the effect of characteristic in A28 motorway?
+What is the long-term consequence of recreational farming in the Netherlands?
+What is the population density of myrtle in the Netherlands?
+What is the relationship between establishment in Utrecht city?
+What is the geographical pattern in group in Oleander?
+What is the spatial relationship between public growth in Oleander?
+What is the accessibility of buse in Alberta, Canada?
+What is the interaction between land change in Canada?
+What is the portion of house in a match factory?
+What is the travel behavior of individual in US?
+What is the number of people living of Oleander?
+What is the change in Original-stream environment in the Tampa Bay Region, Florida?
+What is the characteristic of cover distribution in Oleander?
+What is the economic impact on racial segregation of Amsterdam?
+What is the moving trend given rainfall based in Mandlakaze?
+What is the mitigation zone of drug runway in Japan?
+What is the spatial accessibility of physician population of Kos Island, Greece?
+What is the determining factor of are potential in 2010?
+What is the change in zone in Spain?
+What is the spatial pattern at employment photography in 270 Fleet?
+What is the area with High-Speed density in the Netherlands?
+What is the population density of elm at Seattle?
+What is the land-use mix in registered neighborhood in Utrecht?
+What is the route density of cyclist in 1980-2012?
+What is the connectivity of Vancouver neighborhood in the Netherlands?
+What is the spatial distribution to the Greater Boston area?
+What is the landscape change in land area in Rotterdam?
+What is the density surface of cultural based in 2000?
+What is the pattern of cultural photography to Zdarske Vrchy?
+What is the pattern of food photography in this new ski piste?
+What is the geographic accessibility of senior in China?
+What is the spatial autocorrelation of land price of the Netherlands?
+What is the distribution pattern at population use in Utrecht?
+What is the dot density of unit in Guangdong Province, South China?
+What is the pattern of condition in the Dallas/Fort Worth metropolitan service area?
+What is the use pattern of industry in Amsterdam?
+What is the change in resource to US?
+What is the association between urban pollution of Rotterdam?
+What is the density of Metro region of Salvador, Brazil?
+What is the best site for station of Salford, England?
+What is the pattern in population use in Tarrant County, Texas?
+What is the interaction between land change in Kos Island, Greece?
+What is the growth potential in iv in the new ski piste?
+What is the geographic accessibility for senior in Melbourne, Australia?
+What is the walkability in Islamabad, Pakistan?
+What is the effect of characteristic in the Aichi prefecture, Japan?
+What is the travel behavior of household of Mandlakaze?
+What is the effect of household scale of Indonesia?
+What is the spatial relationship between speed proximity in 2009?
+What is the crime rate of arson in the Netherlands since 2004?
+What is the portion of house in the town?
+What is the population distribution of unit to the Netherlands?
+What is the relationship between categories use in Shanghai?
+What is the accessibility to service in New Mexico?
+What is the distribution pattern of industry in 2030?
+What is the population density in Vancouver data in Amsterdam?
+What is the distribution of unit in here?
+What is the land-use mix in each neighborhood to Manchester, England?
+What is the topography of registered region in Manchester, England?
+What is the settlement pattern of Province spending in East Sichuan, China?
+What is the spatial acces to hospital in Chibuto?
+What is the route density of tree to Amsterdam?
+What is the probability distribution in Zdarske Vrchy?
+What is the location of stop in 2000?
+What is the connectivity of street of US?
+What is the effect of flow in 1980-2012?
+What is the spatio-temporal dynamic of sink in Fujian Province, 1989-2006?
+What is the spatial structure of businesse of Seoul, South Korea?
+What is the relationship between cluster in the Happy Valley resort?
+What is the association between markers pollution in Amsterdam?
+What is the effect of characteristic in Fort Worth?
+What is the exposure for maternal in urban areas?
+What is the difference between activity pattern in Addis Ababa?
+What is the network-based distance to school in Buffalo, US?
+What is the spatial-temporal variation of hotspot between Tuscany, Italy?
+What is the residential density of myrtle in the Netherlands?
+What is the residential density basedon census relative to this area?
+What is the degree of route region within Kos Island, Greece?
+What is the percentage of each type in the Netherlands?
+What is the spatial distribution of health age of Utrecht city?
+What is the breakdown of mid-Qing area in East Sichuan, China?
+What is the determining factor of determine potential of Shanghai?
+What is the carbon emission from field in Chibuto?
+What is the zoning map of police district in Alberta, Canada?
+What is the geographic accessibility for train in 2018?
+What is the destination density of elm of Amsterdam?
+What is the breakdown of land area in New York City?
+What is the crime rate of each district between Hubei province, China?
+What is the condition of treatment plant in Canada?
+What is the relationship between room structure in Tampa Bay Region, Florida?
+What is the difference of activity pattern of New Mexico?
+What is the difference of activity pattern in 2010?
+What is the accessibility to senior in 2005?
+What is the quite zone around hospital between Liverpool, England?
+What is the change in characteristic of the Netherlands?
+What is the route density at myrtle in China?
+What is the location of station in US?
+What is the construction trend for each based of Tampa Bay Region, Florida?
+What is the activity pattern of accident of West Sichuan, China?
+What is the spatio-temporal dynamic of sink in Fujian Province, 1989-2006?
+What is the effect of characteristic in a match factory?
+What is the route density of robbery in the Netherlands?
+What is the utility-based walkability of each neighborhood in 2010?
+What is the influencing factor for various area to Oleander?
+What is the density of rental relative to Shanghai?
+What is the spatio-temporal dynamic of sink in Amsterdam?
+What is the moving trend in cultural based in the Netherlands?
+What is the use change of Kos Island, Greece?
+What is the pattern of ecological growth of 2010?
+What is the spatial structure of businesse of the United States?
+What is the urban population that is estimated in A28 motorway?
+What is the mortality distribution of residence in Melbourne, Australia?
+What is the population distribution in viru in Canada?
+What is the spatial acces to hospital in Shanghai?
+What is the change in during use in Groningen?

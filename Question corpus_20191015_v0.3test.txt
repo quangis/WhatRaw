@@ -1,0 +1,5 @@
+ID;Source;Authors;Year;Title;Question
+39;Competency questions;Haiqi, Nyamsuren;2019;IAOA Summer Institute on Places and Things;What areas do have an annual minimum temperature greater than 0 degrees in Spain
+184;GIS textbook;Allen;2016;GIS tutorial 2: spatial analysis workbook;What is the percentage of each land-use type inside the notification zone for zoning change in the Netherlands
+185;GIS textbook;Allen;2016;GIS tutorial 2: spatial analysis workbook;What are the zones of strict drug enforcement around schools in the Netherlands
+186;GIS textbook;Allen;2016;GIS tutorial 2: spatial analysis workbook;What is a quite region around a hospital that should be enforced by police in the Netherlands

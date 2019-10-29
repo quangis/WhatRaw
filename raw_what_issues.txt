@@ -1,0 +1,803 @@
+
+What are the differences of activity pattern between retired and student groups in Tampa Bay Region, Florida
+	[SC] difference has both 'of' and 'between'
+	[SC] 'of' phrase can be adjective 'What are the activity pattern differences between'
+
+=====================================================
+
+Question 37: What areas do have slope larger than 10% in Spain
+Adjective: as do have slope larger than
+Intent: 10%
+Relation: in
+Object: None
+
+Question 38: What areas do have altitudes between 700 and 2000 meters in Spain
+Adjective: as do have
+Intent: altitudes
+Relation: between
+Object: 700 and 2000 meters
+
+Question 39: What areas do have an annual minimum temperature greater than 0 degrees in Spain
+Adjective: as do have an annual minimum temperature greater than 0
+Intent: degrees
+Relation: in
+Object: None
+
+Question 40: What areas do have low precipitation and humidity in Spain
+Adjective: as do have low precipitation and
+Intent: humidity
+Relation: in
+Object: None
+
+Question 41: What areas are at least 3km away from the river in Spain
+Adjective: as
+Intent: are
+Relation: at
+Object: least 3km away
+
+Question 42: What areas are far away from the road network in Spain
+Adjective: as are far
+Intent: away
+Relation: from
+Object: the road network
+
+Question 51: What areas do have suitable geology for nuclear waste in UK
+Adjective: as do have suitable
+Intent: geology
+Relation: for
+Object: nuclear waste
+
+Question 52: What areas do not have groundwater and natural resources beneath in UK
+Adjective: as do not have groundwater and natural resources
+Intent: beneath
+Relation: in
+Object: None
+
+Question 53: What areas do have low population density in UK
+Adjective: as do have low population
+Intent: density
+Relation: in
+Object: None
+
+Question 54: What areas do have a population density of 300 persons per square kilometer or less in UK
+Adjective: as do have a population
+Intent: density
+Relation: of
+Object: 300 persons
+
+Question 55: What areas are accessible in UK
+Adjective: as are
+Intent: accessible
+Relation: in
+Object: None
+
+Question 56: What areas are minimum 3km and maximum 5km away from the nearest road in UK
+Adjective: as are minimum 3km and maximum 5km
+Intent: away
+Relation: from
+Object: the nearest road
+
+Question 57: What areas are not within conservation areas in UK
+Adjective: as are
+Intent: not
+Relation: within
+Object: conservation areas
+
+Question 165: What areas do have too few roads to handle the traffic in Oleander
+Adjective: as do
+Intent: have
+Relation: to
+Object: None
+
+Question 195: What areas are not within the 3 minutes of driving time for a fire truck given a road network in Oleander
+Adjective: as are
+Intent: not
+Relation: within
+Object: the 3 minutes
+
+Question 350: What areas are within half-mile distance from major highways in the Houston-Galveston area
+Adjective: as
+Intent: are
+Relation: within
+Object: half-mile distance
+
+Question 416: What areas do have high water levels near A27 road in Utrecht
+Adjective: as do have high water levels near A27
+Intent: road
+Relation: in
+Object: None
+
+ACTION: regex change
+
+===================================
+
+## if should be moved to the end
+
+Question 74: If we build a new theme park here, what will be the effect on traffic flows
+Adjective: 
+Intent: effect
+Relation: on
+Object: None
+ACTION: rephrased to "What will be the effect on traffic flows if a new theme park is built here?".
+
+Question 94: If we locate a store here, what would be the impact on our closest existing store
+Adjective: 
+Intent: impact
+Relation: on
+Object: None
+ACTION: rephrased to "What would be the impact on our closest existing store if a store is located to here?".
+
+=============================================================
+
+## [SC] no ending relation, no spatial extent
+
+Question 66: What is the best site for the new landfill
+Adjective:  best
+Intent: site
+Relation: for
+Object: None
+ACTION: rephrased to "What is the best site for the new landfill in UK?"
+
+Question 105: What are the slope and aspect of the new ski piste
+Adjective:  slope and
+Intent: aspect
+Relation: of
+Object: None
+ACTION: rephrased to "What is the slope of the new ski piste in the Happy Valley resort?" and "What is the aspect of the new ski piste in the Happy Valley resort?"
+
+====================================
+
+# should be decomposed
+
+Question 137: What are directional trends in animal migration or grazing based on animal-tracking data
+Adjective:  directional
+Intent: trends
+Relation: in
+Object: animal migration or grazing based
+ACTION: rephrased to
+	What are the directional trends in animal migration based on animal-tracking data?
+	What are the directional trends in animal grazing based on animal-tracking data?
+
+Question 152: What are the crime rates for this and last years in each police district of Texas
+Adjective:  crime
+Intent: rates
+Relation: for
+Object: this and last years
+ACTION: rephrased to
+	What are the crime rates in each police district of Texas for this year?
+	What are the crime rates in each police district of Texas for last year?
+
+Question 161: What is the density of elms and crape myrtles in Oleander
+Adjective: 
+Intent: density
+Relation: of
+Object: elms and crape myrtles
+ACTION: rephrased to
+	What is the density of elms in Oleander?
+	What is the density of crape myrtles in Oleander?
+
+Question 222: What is the impact of low and high population densities on the green infrastructure of Addis Ababa
+Adjective: 
+Intent: impact
+Relation: of
+Object: low and high population densities
+ACTION: rephrased to
+	What is the impact of low population density on the green infrastructure of Addis Ababa?
+	What is the impact of high population density on the green infrastructure of Addis Ababa?
+
+Question 234: What are the spatio-temporal dynamics of carbon emissions and carbon sinks in Guangdong Province, South China
+Adjective:  spatio-temporal
+Intent: dynamics
+Relation: of
+Object: carbon emissions and carbon sinks
+ACTION: rephrased to
+	What are the spatio-temporal dynamics of carbon emissions in Guangdong Province, South China?
+	What are the spatio-temporal dynamics of carbon sinks in Guangdong Province, South China?
+
+Question 251: What is the geographic accessibility to family physician and nurse practitioner services for seniors in Saskatchewan and Alberta, Canada
+Adjective:  geographic
+Intent: accessibility
+Relation: to
+Object: family physician and nurse practitioner services
+ACTION: rephrased to
+	What is the geographic accessibility to family physician services for seniors in Saskatchewan and Alberta, Canada?
+	What is the geographic accessibility for seniors to nurse practitioner services in Saskatchewan and Alberta, Canada?
+
+Question 257: What is the spatial access to private and public hospitals in West Sichuan and East Sichuan, China
+Adjective:  spatial
+Intent: access
+Relation: to
+Object: private and public hospitals
+ACTION: rephrased to
+	What is the spatial access to private hospitals in West Sichuan, China?
+	What is the spatial access to private hospitals in East Sichuan, China?
+	What is the spatial access to public hospitals in West Sichuan, China?
+	What is the spatial access to public hospitals in East Sichuan, China?
+
+Question 260: What is the spatial accessibility to public buses, trams, and trains from points of interests in Melbourne, Australia
+Adjective:  spatial
+Intent: accessibility
+Relation: to
+Object: public buses, trams, and trains
+ACTION: rephrased to
+	What is the spatial accessibility to public buses from points of interests in Melbourne, Australia?
+	What is the spatial accessibility to public trams from points of interests in Melbourne, Australia?
+	What is the spatial accessibility to public trains from points of interests in Melbourne, Australia?
+
+Question 262: What are the impact of land use and population density on seasonal surface water quality in the Wen-Rui Tang River watershed in China
+Adjective: 
+Intent: impact
+Relation: of
+Object: land use and population density
+ACTION: rephrased to
+	What is the impact of land use on seasonal surface water quality in the Wen-Rui Tang River watershed in China?
+	What is the impact of population density on seasonal surface water quality in the Wen-Rui Tang River watershed in China?
+
+Question 275: What are the changes in the environment, climate, land use and land cover types for Jiangsu Province of China between 1980-2012
+Adjective: 
+Intent: changes
+Relation: in
+Object: the environment, climate, land use and land cover types
+ACTION: rephrased to
+	What are the changes in the environment for Jiangsu Province of China between 1980-2012?
+	What are the changes in the climate for Jiangsu Province of China between 1980-2012?
+	What are the changes in the land use for Jiangsu Province of China between 1980-2012?
+	What are the changes in the land cover types for Jiangsu Province of China between 1980-2012?
+
+Question 302: What are the road distances and travel times from residences of cardiac catheterization patients to Foothills Medical Center calculated with the Minkowski metric applied on Calgary road network in Canada
+Adjective:  road distances and travel
+Intent: times
+Relation: from
+Object: residences
+ACTION: rephrased to
+	What are the road distances from residences of cardiac catheterization patients to Foothills Medical Center calculated with the Minkowski metric?
+	What are the road travel times from residences of cardiac catheterization patients to Foothills Medical Center calculated with the Minkowski metric?
+
+Question 305: What is the effect of household and neighborhood characteristics on children exposure to neighborhood poverty and affluence in US
+Adjective: 
+Intent: effect
+Relation: of
+Object: household and neighborhood characteristics
+ACTION: rephrased to
+	What is the effect of household characteristics on children exposure to neighborhood poverty in US?
+	What is the effect of household characteristics on children exposure to neighborhood affluence in US?
+	What is the effect of neighborhood characteristics on children exposure to neighborhood poverty in US?
+	What is the effect of neighborhood characteristics on children exposure to neighborhood affluence in US?
+	
+Question 368: What are the temporal and spatial characteristics of land use change in Fujian Province, 1989-2006
+Adjective:  temporal and spatial
+Intent: characteristics
+Relation: of
+Object: land use change
+ACTION: rephrased to
+	What are the spatio-temporal characteristics of land use change in Fujian Province, 1989-2006?
+
+Question 400: What are the water and land use changes in Original-stream Zone of the Tarim River from 1994 to 2005
+Adjective:  water and land use
+Intent: changes
+Relation: in
+Object: Original-stream Zone
+ACTION: rephrased to
+	What are the land use changes in Original-stream Zone of the Tarim River from 1994 to 2005?
+	What are the changes in water resources in Original-stream Zone of the Tarim River from 1994 to 2005?
+
+Question 399: What are the interactions between population growth and changes in water and land resources in Original-stream Zone of the Tarim River from 1994 to 2005
+Adjective: 
+Intent: interactions
+Relation: between
+Object: population growth and changes
+ACTION: rephrased to
+	What are the interactions between population growth and changes in water resources in Original-stream Zone of the Tarim River from 1994 to 2005?
+	What are the interactions between population growth and changes in land resources in Original-stream Zone of the Tarim River from 1994 to 2005?
+
+Question 395: What are the geographical patterns in the cultural industries in Los Angeles and New York City
+Adjective:  geographical
+Intent: patterns
+Relation: in
+Object: the cultural industries
+ACTION: rephrased to
+	What are the geographical patterns in the cultural industries in Los Angeles?
+	What are the geographical patterns in the cultural industries in New York City?
+	
+Question 157: What are the areas with high population density and concentration of rental units in Utrecht
+Adjective:  
+Intent: areas
+Relation: with
+Object: high population density and concentration
+ACTION: rephrased to
+	What are the areas with high population density in Utrecht?
+	What are the areas with high concentration of rental units in Utrecht?
+	
+Question 330: What is the spatial distribution of respondentsâ€™ residences, health service units, and towns (district centers) in four districts of Chibuto, ChokwÃ¨, GuÃ­jÃ  and Mandlakaze
+Adjective:  spatial
+Intent: distribution
+Relation: of
+Object: respondentsâ€™ residences, health service units, and towns (district centers)
+ACTION: rephrased to
+	What is the spatial distribution of residences in the districts of Chibuto?
+	What is the spatial distribution of health service units in the districts of Chibuto?
+	What is the spatial distribution of towns in the districts of Chibuto?
+	What is the spatial distribution of residences in the districts of Mandlakaze?
+	What is the spatial distribution of health service units in the districts of Mandlakaze?
+	What is the spatial distribution of towns in the districts of Mandlakaze?
+	
+Question 151: What is the portion of rental, owner-occupied, and vacant houses relative to the Hispanic population in Tarrant County, Texas
+Adjective: 
+Intent: portion
+Right side: of rental, owner-occupied, and vacant houses relative to the Hispanic population in Tarrant County, Texas
+ACTION: rephrased to
+	What is the portion of rental houses for the Hispanic population in Tarrant County, Texas
+	What is the portion of owner-occupied houses for the Hispanic population in Tarrant County, Texas
+	What is the portion of vacant houses for the Hispanic population in Tarrant County, Texas
+	
+Question 436: What is the geographic accessibility for seniors to nurse practitioner services in Saskatchewan and Alberta, Canada
+Relation:  in
+Extent: Saskatchewan and Alberta, Canada
+ACTION: rephrased to
+	What is the geographic accessibility for seniors to nurse practitioner services in Alberta, Canada
+	What is the geographic accessibility for seniors to nurse practitioner services in Saskatchewan, Canada
+
+Question 408: What is the association between urban neighborhood socioeconomic markers and ambient air pollution in Vancouver and Seattle
+Relation:  in
+Extent: Vancouver and Seattle
+ACTION: rephrased to
+	What is the association between urban neighborhood socioeconomic markers and ambient air pollution in Vancouver
+	What is the association between urban neighborhood socioeconomic markers and ambient air pollution in Seattle
+
+Question 285: What is the effect of the distribution of deprived neighborhoods on mortality in Glasgow, Liverpool, and Manchester, England
+Relation:  in
+Extent: Glasgow, Liverpool, and Manchester, England
+ACTION: rephrased to
+	What is the effect of the distribution of deprived neighborhoods on mortality in Glasgow, England
+	What is the effect of the distribution of deprived neighborhoods on mortality in Liverpool, England
+	What is the effect of the distribution of deprived neighborhoods on mortality in Manchester, England
+	
+Question 76: What will be the long-term consequences of farming and forestry for the conservation area in Zdarske Vrchy
+Adjective: long-term 
+Intent: consequences
+Object phrase:  of farming and forestry for the conservation area
+Object relation: of 
+Object: farming and forestry
+Extent relation:  in
+Extent: Zdarske Vrchy
+ACTION: rephrased to
+	What will be the long-term consequences of farming for the conservation area in Zdarske Vrchy
+	What will be the long-term consequences of forestry for the conservation area in Zdarske Vrchy
+	
+======================================================================
+
+# misplaced spatial extent
+
+Question 147: What is the construction trend in the city of Oleander given construction years of dwelling units
+Adjective:  construction
+Intent: trend
+Relation: in
+Object: the city
+ACTION: rephrased to
+	What is the construction trend given construction years of dwelling units in the city of Oleander?
+
+Question 233: What is the urban population in China estimated from radiance corrected DMSP-OLS night-time light and land cover data
+Adjective:  urban
+Intent: population
+Relation: in
+Object: China estimated
+ACTION: rephrased to
+	What is the urban population that is estimated from radiance corrected DMSP-OLS night-time light and land cover data in China
+
+Question 241: What is the population density in the Banten province, in Indonesia based on IndoPop data
+Adjective:  population
+Intent: density
+Relation: in
+Object: the Banten province,
+ACTION: rephrased to
+	What is the population density based on IndoPop data in the Banten province, in Indonesia
+
+Question 421: What is the accessibility of residential units in Utrecht city to public waste collectors for glass, paper, plastic, and textile
+Adjective: 
+Intent: accessibility
+Relation: of
+Object: residential units
+ACTION: rephrased to
+	What is the accessibility of residential units to public waste collectors for glass, paper, plastic, and textile in Utrecht city
+	
+Question 74: What will be the effect on traffic flows if a new theme park is built at 
+Adjective: 
+Intent: effect
+Extent: traffic flows if a new theme park is built here
+Obj phrase:
+ACTION: rephrased to 
+	What will be the effect on traffic flows if a new theme park is built near A27 in Utrecht?
+	
+Question 410: What is the impact of racial residential segregation on low birth weight in the Detroit area using optimized neighborhood boundary definitions
+Relation:  in
+Extent: the Detroit area using optimized neighborhood boundary definitions
+ACTION: rephrased to 
+	What is the impact of racial residential segregation on low birth weight using optimized neighborhood boundary definitions in the Detroit area
+
+Question 382: What is the spatial pattern of various industries in Shanghai from spatial statistical perspectives
+Relation:  from
+Extent: spatial statistical perspectives
+ACTION: rephrased to 
+	What is the spatial pattern of various industries from spatial statistical perspectives in Shanghai
+	
+Question 261: What are the urban temporal patterns of individuals in big cities based upon geo-tagged photography
+Relation:  in
+Extent: big cities based upon geo-tagged photography
+ACTION: rephrased to 
+	What are the urban temporal patterns of individuals based upon geo-tagged photography in big cities
+
+======================================================================
+
+# no extent
+
+Question 431: What are the directional trends in animal grazing based on animal-tracking data
+Relation:  on
+Extent: animal-tracking data
+ACTION: rephrased to 
+	What are the directional trends in animal grazing based on animal-tracking data in the Netherlands
+	
+Question 137: What are the directional trends in animal migration based on animal-tracking data
+Relation:  on
+Extent: animal-tracking data
+ACTION: rephrased to 
+	What are the directional trends in animal migration based on animal-tracking data in the Netherlands
+	
+Question 446: WWhat are the road travel times from residences of cardiac catheterization patients to Foothills Medical Center calculated with the Minkowski metric
+Relation:  to
+Extent: Foothills Medical Center calculated with the Minkowski metric
+ACTION: rephrased to 
+	What are the road travel times calculated with the Minkowski metric from residences of cardiac catheterization patients to Foothills Medical Center in New Mexico
+
+Question 302: What are the road distances from residences of cardiac catheterization patients to Foothills Medical Center calculated with the Minkowski metric
+Relation:  to
+Extent: Foothills Medical Center calculated with the Minkowski metric
+ACTION: rephrased to 
+	What are the road distances calculated with the Minkowski metric from residences of cardiac catheterization patients to Foothills Medical Center in New Mexico
+
+Question 357: What is the effect of scale when analysing accessibility and its effects on population change
+Relation:  on
+Extent: population change
+ACTION: rephrased to 
+	What is the effect of scale when analysing accessibility and its effects on population change in the Netherlands
+	
+Question 341: What are the relationships between population and urban growth by analyzing changes in urban form that are characterized by fractal dimensions
+Relation:  by
+Extent: fractal dimensions
+ACTION: rephrased to 
+	What are the relationships between population and urban growth by analyzing changes in urban form that are characterized by fractal dimensions in urban areas
+
+Question 238: What is annual total carbon emission from the construction of built-up land
+Relation:  of
+Extent: built-up land
+ACTION: rephrased to 
+	What is annual total carbon emission from the construction of built-up land in the Netherlands
+
+Question 207: What are the areas with single-family residential properties that have decreased in value more than 3% since 2004
+Relation:  in
+Extent: value more than 3% since 2004
+ACTION: rephrased to 
+	What are the areas with single-family residential properties that have decreased in value more than 3% in the Netherlands since 2004
+	
+Question 205: What are traffic patterns at intersections based on readings of traffic-counting devices placed along a street
+Relation:  along
+Extent: a street
+ACTION: rephrased to 
+	What are traffic patterns at intersections based on readings of traffic-counting devices placed along a street in the Netherlands
+	
+Question 62: What is the pattern of public spending in areas where the majority of residents are African American
+Relation:  of
+Extent: residents are African American
+ACTION: rephrased to 
+	What is the pattern of public spending in areas where the majority of residents are African American in Oleander
+
+Question 118: What is the estimated casualty from a tsunami given affected coastlines in high-resolution satellite imagery
+Relation:  in
+Extent: high-resolution satellite imagery
+ACTION: rephrased to 
+	What is the estimated casualty from a tsunami given affected coastlines in high-resolution satellite imagery of Indonesia
+	
+Question 120: What are the locations of potential bus stops that maximize the overall population catchment area
+ACTION: rephrased to 
+	What are the locations of potential bus stops that maximize the overall population catchment area in Utrecht
+	
+Question 162: What is the density surface of rainfall based on measuring stations
+Relation:  on
+Extent: measuring stations
+ACTION: rephrased to 
+	What is the density surface of rainfall based on measuring stations in the Netherlands
+	
+Question 167: What is the relationship between clusters of West Nile Virus and the locations of food and water sources
+Relation:  of
+Extent: food and water sources
+ACTION: rephrased to 
+	What is the relationship between clusters of West Nile Virus and the locations of food and water sources in US
+	
+Question 170: What is the relationship between clusters of fire calls and population density
+Relation:  of
+Extent: fire calls and population density
+ACTION: rephrased to 
+	What is the relationship between clusters of fire calls and population density in the Netherlands
+
+Question 184: What is the percentage of each land-use type inside the notification zone for zoning change
+Relation:  for
+Extent: zoning change
+ACTION: rephrased to
+	What is the percentage of each land-use type inside the notification zone for zoning change in the Netherlands
+	
+Question 185: What are the zones of strict drug enforcement around schools, playgrounds, and arcades
+Relation:  around
+Extent: schools, playgrounds, and arcades
+ACTION: rephrased to
+	What are the zones of strict drug enforcement around schools in the Netherlands
+	What are the zones of strict drug enforcement around playgrounds in the Netherlands
+	What are the zones of strict drug enforcement around arcades in the Netherlands
+	
+Question 186: What is a quite zone around a hospital that should be enforced by police
+Relation:  by
+Extent: police
+ACTION: rephrased to
+	What is a quite zone around a hospital that should be enforced by police in the Netherlands
+
+======================================================================
+
+# incorrect intent
+
+Question 157: What are the areas with high population density and concentration of rental units in Utrecht
+Adjective:  areas with high population density and
+Intent: concentration
+Relation: of
+Object: rental units
+ACTION: regex change
+
+Question 174: What is acreage for each land-use type in a region of Oleander
+Adjective: creage for each land-use
+Intent: type
+Relation: in
+Object: a region
+ACTION: 
+	regex change
+	rephrased to "What is the acreage for each land-use type in a region of Oleander"
+
+Question 207: What are the areas with single-family residential properties that have decreased in value more than 3% since 2004
+Adjective:  areas with single-family residential properties that have
+Intent: decreased
+Relation: in
+Object: None
+ACTION: regex change
+
+Question 239: What are the sites suitable for metro stations in Karbala, Iraqi
+Adjective:  sites
+Intent: suitable
+Relation: for
+Object: metro stations
+ACTION: rephrased to
+	What are the suitable sites for metro stations in Karbala, Iraqi?
+
+Question 245: What are the factors determining the area of land-use change in the urban area of Yogyakarta in Indonesia
+Adjective:  factors determining the
+Intent: area
+Relation: of
+Object: land-use change
+ACTION: rephrased to
+	What are the determining factors of the area of land-use change in the urban area of Yogyakarta in Indonesia?
+
+Question 246: What are the factors determining the location of land-use change in the urban area of Yogyakarta in Indonesia
+Adjective:  factors determining the
+Intent: location
+Relation: of
+Object: land-use change
+ACTION: rephrased to
+	What are the determining factors of the location of land-use change in the urban area of Yogyakarta in Indonesia?
+
+Question 249: What are the factors determining the potential for the occurrence of robberies in buses in Salvador, Brazil
+Adjective:  factors determining the
+Intent: potential
+Relation: for
+Object: the occurrence
+ACTION: rephrased to
+	What are the factors that determine the potential for the occurrence of robberies in buses in Salvador, Brazil?
+
+Question 276: What are the risk factors associated with physical access to health facilities among women of reproductive age in Dabat district, Ethiopia
+Adjective:  risk factors associated with physical
+Intent: access
+Relation: to
+Object: health facilities
+ACTION: rephrased to
+	What are the risk factors that are associated with physical access to health facilities among women of reproductive age in Dabat district, Ethiopia?
+
+Question 362: What are the most influential factors to urban land price in Hubei province, China
+Adjective: 
+Intent: most
+Relation: in
+Object: None
+ACTION: regex change
+
+Question 379: What are the possible influencing factors for population change in China from 1953 to 2000
+Adjective: 
+Intent: possible
+Relation: in
+Object: None
+ACTION: regex change
+
+======================================================================
+
+# incorrect adjective
+
+Question 236: What is annual direct carbon emission from paddy fields in Guangdong, South China
+Adjective: nnual direct carbon
+Intent: emission
+Relation: from
+Object: paddy fields
+ACTION: regex change
+
+Question 237: What is annual indirect carbon emission from agricultural activities in Guangdong, South China
+Adjective: nnual indirect carbon
+Intent: emission
+Relation: from
+Object: agricultural activities
+ACTION: regex change
+
+===================================================================
+
+# incorrect object
+
+Question 139: What is the rate of water removal with water wells from an aquifer in Amsterdam
+Adjective: 
+Intent: rate
+Relation: of
+Object: water removal with water wells
+
+Question 154: What are the portions of energy coming from oil, natural gas, and nuclear power in each state of the United States
+Adjective: 
+Intent: portions
+Relation: of
+Object: energy coming
+
+Question 162: What is the density surface of rainfall based on measuring stations
+Adjective:  density
+Intent: surface
+Relation: of
+Object: rainfall based
+
+Question 184: What is the percentage of each land-use type inside the notification zone for zoning change
+Adjective: 
+Intent: percentage
+Relation: of
+Object: each land-use type inside the notification zone
+
+Question 216: What is the degree of bicycle route separation the Metro Vancouver region of Canada
+Adjective: 
+Intent: degree
+Relation: of
+Object: bicycle route separation the Metro Vancouver region
+
+Question 218: What is the topography of bicycle-friendly streets the Metro Vancouver region of Canada
+Adjective: 
+Intent: topography
+Relation: of
+Object: bicycle-friendly streets the Metro Vancouver region
+
+Question 240: What is the spatial access to outpatient services relative to the demand in Tuscany, Italy
+Adjective:  spatial
+Intent: access
+Relation: to
+Object: outpatient services relative
+
+Question 263: What was the historical spatial land use pattern for Jiangsu Province during the mid-Qing Dynasty in China
+Adjective:  historical spatial land use
+Intent: pattern
+Relation: for
+Object: Jiangsu Province during the mid-Qing Dynasty
+
+Question 340: What is the ethnic settlement pattern in the Greater Boston area in 2000
+Adjective:  ethnic settlement
+Intent: pattern
+Relation: in
+Object: the Greater Boston area
+
+Question 400: What are the water and land use changes in Original-stream Zone of the Tarim River from 1994 to 2005
+Adjective:  water and land use
+Intent: changes
+Relation: in
+Object: Original-stream Zone
+
+Question 397: What is the urban growth potential in the area Islamabad Zone IV of Islamabad, Pakistan
+Adjective:  urban growth
+Intent: potential
+Relation: in
+Object: the area Islamabad Zone IV
+
+Question 388: What are the mortality distribution in Leeds in 2030
+Adjective:  mortality
+Intent: distribution
+Relation: in
+Object: Leeds
+
+Question 338: What is the geographic distribution of nonprofit organizations serving immigrants across municipalities within the Greater Boston area
+Adjective:  geographic
+Intent: distribution
+Relation: of
+Object: nonprofit organizations serving immigrants across municipalities
+
+======================================================================
+
+Question 377: What are the methods for modeling population
+Adjective: 
+Intent: methods
+Relation: for
+Object: None
+ACTION rephrashed:
+	What are the methods for population modeling in cities
+
+==========================
+
+# failed to identify a named place
+
+Question 124: What is the crime distribution in Amsterdam in 2018
+Adjective:  crime
+Intent: distribution
+Relation: in
+Object: Amsterdam
+
+Question 214: What is the bikeability in the Metro Vancouver region of Canada
+Adjective: 
+Intent: bikeability
+Relation: in
+Object: the Metro Vancouver region
+
+Question 215: What is the bicycle route density in the Metro Vancouver region of Canada
+Adjective:  bicycle route
+Intent: density
+Relation: in
+Object: the Metro Vancouver region
+
+================================================================
+
+## [SC] if is not an object
+
+Question 65: What would be the economic impact if development were restricted within 100 yards of the river
+Adjective:  economic
+Intent: impact
+Relation: if
+Object: development were restricted
+
+Question 75: What would be the time saving if we delivered our parcels using this route, rather than an alternative
+Adjective:  time
+Intent: saving
+Relation: if
+Object: None
+
+====================================
+
+Question 68: What will be the need to adapt to the local public transport network and its capacity when a new neighborhood is built north of the town
+Adjective: 
+Intent: need
+Relation: to
+Object: adapt
+
+============================================================
+
+Question 107: What is the relationship between hotel room prices and proximity to ski lift stations in the Happy Valley resort
+Adjective: 
+Intent: relationship
+Relation: between
+Object: hotel room prices and proximity
+
+
+Question 356: What are the differences of activity pattern between retired and student groups in Tampa Bay Region, Florida
+Adjective: 
+Intent: differences
+Relation: of
+Object: activity pattern
+
+
+
+
+171
+c(18,23,30,59,62,65,66,67,68,74,75,76,82,87,88,94,101,103,104,105,107,108,110,112,113,118,119,120,121,124,134,136,137,138,139,140,141,142,143,145,146,147,148,152,153,154,155,156,157,158,159,160,161,162,163,164,167,170,174,179,181,184,185,186,189,192,197,207,211,212,213,214,215,216,217,218,219,222,224,233,234,236,237,239,240,241,245,246,248,249,251,254,257,260,262,263,267,272,274,275,276,278,282,285,291,292,293,294,297,298,299,300,301,302,305,306,308,309,314,316,324,326,329,330,334,335,336,337,338,340,341,342,343,351,352,353,354,355,356,357,360,361,362,364,367,368,377,379,380,382,383,386,387,388,392,393,394,395,397,399,400,403,404,408,410,411,412,417,419,421,424,
+
+v1
+What ((is|are|were|was|do|does|did|have|has|should|could|would|will)( be)?)( the| a)?(?P<adjective>(.*?)) (?P<intent>\S+) (?P<relation>of|in|at|for|by|within|per|between|on|from|to|around|among|along|over|given)( (?P<object>(.*?))(?= (of|in|at|for|by|within|per|between|on|from|to|around|if|among|along|that|over|like|such|given|where|when|which) ))?
+v2
+What (is|are|were|was|do|does|did|have|has|should|could|would|will) (be )?(the|a)?(?P<adjective>(..*?))(?P<intent>\S+) (?P<relation>of|in|at|for|by|within|per|between|on|from|to|around|if|among|along|over|given)( (?P<object>(.*?))(?= (of|in|at|for|by|within|per|between|on|from|to|around|if|among|along|that|over|like|such|given|where|when|which) ))?
+

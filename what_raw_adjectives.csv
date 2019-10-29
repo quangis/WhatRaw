@@ -1,0 +1,271 @@
+intent,adjective,distance,qid,code
+impact,economic ,0,65,o
+impact,economic,1,65,o
+site,best ,0,66,o
+site,best,1,66,o
+saving,time ,0,75,o
+saving,time,1,75,o
+consequences,long-term ,0,76,o
+consequences,long-term,1,76,o
+type,predominant land use ,0,101,o
+type,predominant,3,101,o
+type,land,2,101,o
+type,use,1,101,o
+snowfall,predicted ,0,103,o
+snowfall,predicted,1,103,o
+route,quickest ,0,104,o
+route,quickest,1,104,o
+route,quickest ,0,108,o
+route,quickest,1,108,o
+consequences,long-term ,0,113,o
+consequences,long-term,1,113,o
+casualty,estimated ,0,118,o
+casualty,estimated,1,118,o
+covered,areas ,0,119,o
+covered,areas,1,119,o
+categories,zoning ,0,121,o
+categories,zoning,1,121,o
+distribution,crime ,0,124,o
+distribution,crime,1,124,o
+trend,directional ,0,136,o
+trend,directional,1,136,o
+trends,directional ,0,137,o
+trends,directional,1,137,o
+categories,single family zoning ,0,138,o
+categories,single,3,138,o
+categories,family,2,138,o
+categories,zoning,1,138,o
+mileage,total linear ,0,140,o
+mileage,total,2,140,o
+mileage,linear,1,140,o
+rate,monthly ,0,141,o
+rate,monthly,1,141,o
+distribution,population ,0,145,o
+distribution,population,1,145,o
+distribution,population ,0,146,o
+distribution,population,1,146,o
+trend,construction ,0,147,o
+trend,construction,1,147,o
+rates,crime ,0,152,o
+rates,crime,1,152,o
+results,election ,0,153,o
+results,election,1,153,o
+density,population ,0,155,o
+density,population,1,155,o
+density,dot ,0,158,o
+density,dot,1,158,o
+density,dot ,0,159,o
+density,dot,1,159,o
+surface,density ,0,162,o
+surface,density,1,162,o
+trends,directional ,0,164,o
+trends,directional,1,164,o
+boundaries,attendance ,0,181,o
+boundaries,attendance,1,181,o
+zone,quite ,0,186,o
+zone,quite,1,186,o
+zones,noise mitigation ,0,192,o
+zones,noise,2,192,o
+zones,mitigation,1,192,o
+patterns,traffic ,0,205,o
+patterns,traffic,1,205,o
+walkability,utility-based ,0,210,o
+walkability,utility-based,1,210,o
+density,residential ,0,211,o
+density,residential,1,211,o
+mix,land-use ,0,213,o
+mix,land-use,1,213,o
+density,bicycle route ,0,215,o
+density,bicycle,2,215,o
+density,route,1,215,o
+density,destination ,0,219,o
+density,destination,1,219,o
+distance,population's minimum network-based ,0,225,o
+distance,population's,3,225,o
+distance,minimum,2,225,o
+distance,network-based,1,225,o
+distance,minimum network-based ,0,227,o
+distance,minimum,2,227,o
+distance,network-based,1,227,o
+distance,minimum network-based ,0,228,o
+distance,minimum,2,228,o
+distance,network-based,1,228,o
+population,urban ,0,233,o
+population,urban,1,233,o
+dynamics,spatio-temporal ,0,234,o
+dynamics,spatio-temporal,1,234,o
+emission,annual direct carbon ,0,236,o
+emission,annual,3,236,o
+emission,direct,2,236,o
+emission,carbon,1,236,o
+emission,annual indirect carbon ,0,237,o
+emission,annual,3,237,o
+emission,indirect,2,237,o
+emission,carbon,1,237,o
+emission,annual total carbon ,0,238,o
+emission,annual,3,238,o
+emission,total,2,238,o
+emission,carbon,1,238,o
+sites,suitable ,0,239,o
+sites,suitable,1,239,o
+access,spatial ,0,240,o
+access,spatial,1,240,o
+density,population ,0,241,o
+density,population,1,241,o
+factors,determining ,0,245,o
+factors,determining,1,245,o
+factors,determining ,0,246,o
+factors,determining,1,246,o
+distribution,spatial probability ,0,248,o
+distribution,spatial,2,248,o
+distribution,probability,1,248,o
+accessibility,geographic ,0,251,o
+accessibility,geographic,1,251,o
+access,spatial ,0,257,o
+access,spatial,1,257,o
+accessibility,spatial ,0,260,o
+accessibility,spatial,1,260,o
+patterns,urban temporal ,0,261,o
+patterns,urban,2,261,o
+patterns,temporal,1,261,o
+pattern,historical spatial land use ,0,263,o
+pattern,historical,4,263,o
+pattern,spatial,3,263,o
+pattern,land,2,263,o
+pattern,use,1,263,o
+patterns,spatiotemporal ,0,267,o
+patterns,spatiotemporal,1,267,o
+factors,risk ,0,276,o
+factors,risk,1,276,o
+distribution,spatial ,0,291,o
+distribution,spatial,1,291,o
+ratio,aging population ,0,292,o
+ratio,aging,2,292,o
+ratio,population,1,292,o
+density,aging population ,0,293,o
+density,aging,2,293,o
+density,population,1,293,o
+ratio,retail floor area ,0,298,o
+ratio,retail,3,298,o
+ratio,floor,2,298,o
+ratio,area,1,298,o
+structure,spatial ,0,301,o
+structure,spatial,1,301,o
+calculated,road distances ,0,302,o
+calculated,road,2,302,o
+calculated,distances,1,302,o
+volumes,traffic ,0,309,o
+volumes,traffic,1,309,o
+trends,spatial ,0,314,o
+trends,spatial,1,314,o
+pattern,spatial distribution ,0,324,o
+pattern,spatial,2,324,o
+pattern,distribution,1,324,o
+distribution,spatial ,0,330,o
+distribution,spatial,1,330,o
+change,long-term spatio-temporal landscape ,0,334,o
+change,long-term,3,334,o
+change,spatio-temporal,2,334,o
+change,landscape,1,334,o
+distribution,geographic ,0,338,o
+distribution,geographic,1,338,o
+pattern,ethnic settlement ,0,340,o
+pattern,ethnic,2,340,o
+pattern,settlement,1,340,o
+pattern,spatial-temporal ,0,343,o
+pattern,spatial-temporal,1,343,o
+behavior,travel ,0,351,o
+behavior,travel,1,351,o
+behavior,travel ,0,352,o
+behavior,travel,1,352,o
+pattern,individual activity ,0,353,o
+pattern,individual,2,353,o
+pattern,activity,1,353,o
+patterns,activity ,0,355,o
+patterns,activity,1,355,o
+autocorrelation,spatial ,0,360,o
+autocorrelation,spatial,1,360,o
+distribution,spatial ,0,361,o
+distribution,spatial,1,361,o
+factors,most influential ,0,362,o
+factors,most,2,362,o
+factors,influential,1,362,o
+characteristics,spatio-temporal ,0,368,o
+characteristics,spatio-temporal,1,368,o
+factors,possible influencing ,0,379,o
+factors,possible,2,379,o
+factors,influencing,1,379,o
+pattern,spatial ,0,382,o
+pattern,spatial,1,382,o
+relationships,spatial ,0,383,o
+relationships,spatial,1,383,o
+trends,moving ,0,387,o
+trends,moving,1,387,o
+distribution,mortality ,0,388,o
+distribution,mortality,1,388,o
+changes,land use ,0,389,o
+changes,land,2,389,o
+changes,use,1,389,o
+variations,spatial-temporal ,0,392,o
+variations,spatial-temporal,1,392,o
+pattern,conversion ,0,394,o
+pattern,conversion,1,394,o
+patterns,geographical ,0,395,o
+patterns,geographical,1,395,o
+potential,urban growth ,0,397,o
+potential,urban,2,397,o
+potential,growth,1,397,o
+changes,land use ,0,400,o
+changes,land,2,400,o
+changes,use,1,400,o
+distribution,spatial ,0,403,o
+distribution,spatial,1,403,o
+map,quantitative risk zoning ,0,404,o
+map,quantitative,3,404,o
+map,risk,2,404,o
+map,zoning,1,404,o
+types,land cover ,0,417,o
+types,land,2,417,o
+types,cover,1,417,o
+distribution,population ,0,424,o
+distribution,population,1,424,o
+trends,directional ,0,431,o
+trends,directional,1,431,o
+rates,crime ,0,432,o
+rates,crime,1,432,o
+dynamics,spatio-temporal ,0,435,o
+dynamics,spatio-temporal,1,435,o
+accessibility,geographic ,0,436,o
+accessibility,geographic,1,436,o
+access,spatial ,0,437,o
+access,spatial,1,437,o
+access,spatial ,0,438,o
+access,spatial,1,438,o
+access,spatial ,0,439,o
+access,spatial,1,439,o
+accessibility,spatial ,0,440,o
+accessibility,spatial,1,440,o
+accessibility,spatial ,0,441,o
+accessibility,spatial,1,441,o
+calculated,road travel times ,0,446,o
+calculated,road,3,446,o
+calculated,travel,2,446,o
+calculated,times,1,446,o
+patterns,geographical ,0,452,o
+patterns,geographical,1,452,o
+distribution,spatial ,0,454,o
+distribution,spatial,1,454,o
+distribution,spatial ,0,455,o
+distribution,spatial,1,455,o
+distribution,spatial ,0,456,o
+distribution,spatial,1,456,o
+distribution,spatial ,0,457,o
+distribution,spatial,1,457,o
+distribution,spatial ,0,458,o
+distribution,spatial,1,458,o
+accessibility,geographic ,0,461,o
+accessibility,geographic,1,461,o
+accessibility,geographic ,0,465,o
+accessibility,geographic,1,465,o
+consequences,long-term ,0,468,o
+consequences,long-term,1,468,o

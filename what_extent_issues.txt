@@ -1,0 +1,229 @@
+Question 377: What are the methods for population modeling in cities
+Relation:  in
+Extent: cities
+
+================================================================
+
+# date 
+
+Question 152: What are the crime rates in each police district of Texas for this year
+Relation:  for
+Extent: this year
+
+Question 124: What is the crime distribution in Amsterdam in 2018
+Relation:  in
+Extent: 2018
+
+Question 207: What are the areas with single-family residential properties that have decreased in value more than 3% in the Netherlands since 2004
+Relation:  in
+Extent: value more than 3% since 2004
+
+Question 267: What are the spatiotemporal patterns of relative healthy food access in the Region of Waterloo, Canada, from 2011 to 2014
+Relation:  to
+Extent: 2014
+
+Question 275: What are the changes in the environment for Jiangsu Province of China between 1980-2012
+Relation:  between
+Extent: 1980-2012
+
+Question 278: What is the impact of High-Speed Rail on land cover change in the area of Atocha railway station in Madrid, Spain, between 1990 and 2006
+Relation:  between
+Extent: 1990 and 2006
+
+Question 282: What is the effect of geographic proximity on scientific cooperation among Chinese cities from 1990 to 2010
+Relation:  to
+Extent: 2010
+
+Question 314: What are the spatial trends of school and housing segregation on the South of US between 1990 and 2010
+Relation:  between
+Extent: 1990 and 2010
+
+Question 316: What is the difference between the racial composition in elementary school and in census block groups on the South of US in 1990, 2010, 2010
+Relation:  in
+Extent: 1990, 2010, 2010
+
+Question 335: What are the changes of landuse categories distribution in the district of Kefalos for the years 1981, 1995 and 2002
+Relation:  for
+Extent: the years 1981, 1995 and 2002
+
+Question 336: What are the changes in transport networks in the district of Kefalos from 1995 to 2002
+Relation:  to
+Extent: 2002
+
+Question 337: What are the changes in visibility in the district of Kefalos from 1995 to 2002
+Relation:  to
+Extent: 2002
+
+Question 340: What is the ethnic settlement pattern in the Greater Boston area in 2000
+Relation:  in
+Extent: 2000
+
+Question 342: What are the relationships between population and urban growth in Kaohsiung, Taiwan, from 1980 to 2010
+Relation:  to
+Extent: 2010
+
+Question 343: What is the spatial-temporal pattern of urban growth in Kaohsiung from 1980 to 2010
+Relation:  to
+Extent: 2010
+
+Question 363: What are the patterns of clustering in depressive symptoms of community-dwelling older people in New Jersey from 2006 to 2008
+Relation:  to
+Extent: 2008
+
+Question 364: What are the relationships between the level of depressive symptoms and poverty, residential stability and crime in New Jersey from 2006 to 2008
+Relation:  to
+Extent: 2008
+
+Question 368: What are the spatio-temporal characteristics of land use change in Fujian Province, 1989-2006
+Relation:  in
+Extent: Fujian Province, 1989-2006
+
+Question 379: What are the possible influencing factors for population change in China from 1953 to 2000
+Relation:  to
+Extent: 2000
+
+Question 380: What are the characteristics of population distribution in China in 2000
+Relation:  in
+Extent: 2000
+
+Question 443: What are the changes in the climate for Jiangsu Province of China between 1980-2012
+Relation:  between
+Extent: 1980-2012
+
+Question 444: What are the changes in the land use for Jiangsu Province of China between 1980-2012
+Relation:  between
+Extent: 1980-2012
+
+Question 445: What are the changes in the land cover types for Jiangsu Province of China between 1980-2012
+Relation:  between
+Extent: 1980-2012
+
+Question 432: What are the crime rates in each police district of Texas for last year
+Relation:  for
+Extent: last year
+
+Question 403: What is the spatial distribution of cervix cancer mortality rates for 118 counties of four states in the Western USA over 1970-1994
+Relation:  in
+Extent: the Western USA over 1970-1994
+
+Question 399: What are the interactions between population growth and changes in water resources in Original-stream Zone of the Tarim River from 1994 to 2005
+Relation:  to
+Extent: 2005
+
+Question 400: What are the land use changes in Original-stream Zone of the Tarim River from 1994 to 2005
+Relation:  to
+Extent: 2005
+
+Question 394: What is the conversion pattern of rural-urban land use in Nanjing, China from 2000 to 2004
+Relation:  to
+Extent: 2004
+
+Question 386: What are the changes in spatial characteristics of the population in Leeds from 2010 to 2030
+Relation:  to
+Extent: 2030
+
+Question 387: What are the moving trends of students in Leeds from 2010 to 2030
+Relation:  to
+Extent: 2030
+
+Question 388: What are the mortality distribution in Leeds in 2030
+Relation:  in
+Extent: 2030
+
+Question 389: What are the land use changes in the built-up area in Yantai, China, from 1992-2004
+Relation:  from
+Extent: 1992-2004
+
+Question 392: What are the spatial-temporal variations of hotspots for thefts and robberies in Shanghai in 2009
+Relation:  in
+Extent: 2009
+
+===============================================================
+
+# extent and locator
+
+Question 241: What is the population density based on IndoPop data in the Banten province, in Indonesia
+Relation:  in
+Extent: Indonesia
+
+Question 245: What are the determining factors of the area of land-use change in the urban area of Yogyakarta in Indonesia
+Relation:  in
+Extent: Indonesia
+
+Question 246: What are the determining factors of the location of land-use change in the urban area of Yogyakarta in Indonesia
+Relation:  in
+Extent: Indonesia
+
+Question 262: What is the impact of land use on seasonal surface water quality in the Wen-Rui Tang River watershed in China
+Relation:  in
+Extent: China
+
+Question 263: What was the historical spatial land use pattern for Jiangsu Province during the mid-Qing Dynasty in China
+Relation:  in
+Extent: China
+
+Question 442: What is the impact of population density on seasonal surface water quality in the Wen-Rui Tang River watershed in China
+Relation:  in
+Extent: China
+
+Question 274: What is the accessibility of the population to the high-speed rail in the Extremadura region of Spain
+Relation:  of
+Extent: Spain
+
+Question 214: What is the bikeability in the Metro Vancouver region of Canada
+Relation:  of
+Extent: Canada
+
+Question 215: What is the bicycle route density in the Metro Vancouver region of Canada
+Relation:  of
+Extent: Canada
+
+Question 216: What is the degree of bicycle route separation the Metro Vancouver region of Canada
+Relation:  of
+Extent: Canada
+
+Question 217: What is the connectivity of bicycle-friendly streets in the Metro Vancouver region of Canada
+Relation:  of
+Extent: Canada
+
+Question 218: What is the topography of bicycle-friendly streets the Metro Vancouver region of Canada
+Relation:  of
+Extent: Canada
+
+Question 219: What is the destination density for cyclists in the Metro Vancouver region of Canada
+Relation:  of
+Extent: Canada
+
+
+
+
+Question 334: What is the long-term spatio-temporal landscape change in Kos Island, Greece
+
+Question 353: What is the individual activity pattern in the Tampa Bay Region, Florida
+
+Question 424: What is the population distribution within Riverside-San Bernardino, CA
+
+Question 419: What is the walkability of Utrecht
+
+Question 101: What is the predominant land use type in the Happy Valley resort
+
+Question 103: What is the predicted snowfall for the new ski piste
+
+Question 121: What are the zoning categories in Utrecht
+
+Question 138: What are the single family zoning categories in Utrecht
+
+Question 145: What is the population distribution in Tarrant County, Texas
+
+
+
+
+Question 75: What would be the time saving if we delivered our parcels using this route, rather than an alternative
+
+Question 220: What is the effect of different scales on the accuracy of the GIS-based EPIC model
+Relation:  of
+Extent: the GIS-based EPIC model
+
+Question 147: What is the construction trend given construction years of dwelling units in the city of Oleander
+Relation:  of
+Extent: Oleander
